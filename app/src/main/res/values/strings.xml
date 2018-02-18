@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="team_a">Team A</string>
+    <string name="score">Score</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="fouls">Fouls</string>
+    <string name="winner">Winner</string>
+    <string name="reset">Reset</string>
+    <string name="team_b">Team B</string>
+    <string name="_0">0</string>
+    <string name="score_is_equal">Score is equal</string>
+    <string name="winner_team_b">Winner is Team B</string>
+    <string name="winner_team_a">Winner is Team A</string>
+    <string name="empty_brackets" />
+</resources>
